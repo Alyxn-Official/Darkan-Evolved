@@ -1,0 +1,22 @@
+{
+    "name": "darkan-evolution",
+    "publisher": "ayzell",
+    "displayName": "Darkan-Evolution",
+    "description": "Inspired by Darkan",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.61.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "darkan-evolved",
+                "uiTheme": "vs-dark",
+                "path": "./themes/darkan-evolved-color-theme.json"
+            }
+        ]
+    }
+}
